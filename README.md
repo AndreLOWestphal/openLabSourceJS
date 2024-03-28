@@ -1,6 +1,6 @@
 # Bem vindo ao Conhecimento JavaScript
 
-##Dominando JavaScript: Do Básico ao Avançado
+## Dominando JavaScript: Do Básico ao Avançado
 **JavaScript**, *a linguagem que dá vida à web! Se você deseja desvendar seus segredos e se tornar um mestre Jedi do front-end, este guia é para você.*
 
 **Nível Iniciante: Desbravando a Fronteira**
